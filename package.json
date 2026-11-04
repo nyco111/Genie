@@ -1,0 +1,7 @@
+{
+  "name": "genie-backend",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test", "dev": "vercel dev" }
+}
